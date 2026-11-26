@@ -54,16 +54,17 @@
 Билеты на ключевые программы почти сразу закончились. Дольше всего держался четверг — та же картина с буднями,
 что и в исторических данных.
 
-| День | Официальная цена, ₽ | Перепродажа, ₽ |
-|---|---|---|
-| 17 декабря, четверг | 350–750 | — |
-| 18 декабря, пятница | 400–800 | 5 000–10 000 |
-| 20 декабря, финальный день | 1 000–2 500 | — |
+| День | Официальная цена, ₽ | Перепродажа 26 ноября, ₽ | Предложений перепродажи |
+|---|---|---|---|
+| 17 декабря, четверг | 350–750 | — | — |
+| 18 декабря, пятница | 400–800 | 7 500 | 3 места |
+| 19 декабря, суббота | нет данных | 8 500–12 500 | 3 места |
+| 20 декабря, финальный день | 1 000–2 500 | 8 500 | 9 мест |
 
-Официальные цены — по [МГОРСК.ру](https://mgorsk.ru/text/sport/2026/11/09/76753473/), перепродажа —
-по [tickets-russia.ru](https://tickets-russia.ru/figure-skating/bilety-chempionat-rossii-po-figurnom-kataniju/57531/)
-на 25 ноября 2026. Перепродажа на пятницу в 6–12 раз дороже самого дорогого официального билета. Это признак того, что официальная цена
-заметно ниже того, что зрители готовы платить, и разницу забирают перекупщики.
+Официальные цены — по [МГОРСК.ру](https://mgorsk.ru/text/sport/2026/11/09/76753473/), перепродажа — первый снимок
+трекера ([`data/tickets/prices.csv`](data/tickets/prices.csv)). Билет на пятницу у перекупщика стоит в 9 раз дороже
+самого дорогого официального, на финал — в 3,4 раза. Это признак того, что официальная цена заметно ниже того,
+что зрители готовы платить, и разницу забирают перекупщики.
 
 **Сбор продолжается.** [`track-tickets.yml`](.github/workflows/track-tickets.yml) раз в день до начала турнира сохраняет
 цены перепродажи по дням в [`data/tickets/`](data/tickets). Это одна загрузка в день с каждой страницы. После турнира
@@ -91,4 +92,4 @@ releases, organiser reports and news coverage: 24 events (1998–2026), 13 sessi
 source link. Findings: weekday sessions sell far worse than weekends (Worlds 2023: 38% on Wednesday, sold out on Saturday);
 small arenas (3–4k seats) fill up while large ones (10–16k) are 20–80% full; US live attendance peaked in 2007–2010; Russian
 domestic Grand Prix stages now draw 2–4× more spectators per day than North American ISU events. A daily GitHub Actions job now tracks resale
-prices for the 2027 Russian Championships: resale currently runs at 6–12× the top official price.
+prices for the 2027 Russian Championships: resale currently runs at 3–9× the top official price.
