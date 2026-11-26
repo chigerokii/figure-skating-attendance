@@ -1,0 +1,25 @@
+event_id,event,season_year,level,country,city,arena,capacity_per_session,sessions_or_days,attendance_total,measure,source_url,note
+usc1998,Чемпионат США,1998,национальный,США,Филадельфия,CoreStates Center,19082,,115004,официально,https://www.sportsbusinessdaily.com/Daily/Issues/1998/01/12/Events-Attractions/US-FIGURE-SKATING-CHAMPIONSHIPS-DRAWS-OVER-115000-FANS.aspx,"вместимость = аншлаговая сессия 19 082"
+usc2000,Чемпионат США,2000,национальный,США,Кливленд,,,,118000,официально (округлено),https://skatingmagazine.usfigureskating.org/article/Skating_202111_04,
+usc2002,Чемпионат США,2002,национальный,США,Лос-Анджелес,,,,125345,официально,https://www.spokesman.com/stories/2006/oct/18/2007-us-figure-skating-championship-tickets-on/,олимпийский сезон
+usc2007,Чемпионат США,2007,национальный,США,Спокан,Spokane Arena,10500,,154893,официально,https://skatingmagazine.usfigureskating.org/article/Skating_202111_04,вместимость арены из spokesman.com 2009
+usc2010,Чемпионат США,2010,национальный,США,Спокан,Spokane Arena,10500,11,158170,официально,https://www.spokesman.com/stories/2010/jan/24/spokane-sets-championship-attendance-record-again/,11 дней; рекорд
+usc2011,Чемпионат США,2011,национальный,США,Гринсборо,,,9,110787,официально,https://www.sportsproperties.com/Portals/0/news/304.pdf,9 дней
+usc2018,Чемпионат США,2018,национальный,США,Сан-Хосе,SAP Center,,,107318,официально,https://www.usfigureskating.org/news/press-release/attendance-figures-announced-2018-prudential-us-figure-skating-championships,олимпийский сезон
+usc2019,Чемпионат США,2019,национальный,США,Детройт,Little Caesars Arena,,,70886,официально,https://www.usfigureskating.org/news/press-release/us-figure-skating-announces-attendance-figures-2019-geico-us-figure-skating,
+usc2026,Чемпионат США,2026,национальный,США,Сент-Луис,Enterprise Center,,11,93231,официально,https://stlsports.org/figure-skating-championships/,"9 сессий взрослых + 2 юниорских"
+wc2003,Чемпионат мира,2003,ISU,США,Вашингтон,,,,106851,официально,https://skatingmagazine.usfigureskating.org/article/Skating_202111_04,
+wc2009,Чемпионат мира,2009,ISU,США,Лос-Анджелес,,,,101679,официально,https://usfigureskating.org/story?id=89523&type=media,по пресс-релизу USFS 2016
+wc2016,Чемпионат мира,2016,ISU,США,Бостон,TD Garden,14971,9,108264,официально,https://usfigureskating.org/story?id=89523&type=media,9 платных сессий
+wc2025,Чемпионат мира,2025,ISU,США,Бостон,TD Garden,13000,,111297,официально,https://members.usfsaonline.org/sites/default/files/media-files/Records%20and%20Results.pdf,"вместимость: ISU пишет о 13 000 на аншлаговых вечерах"
+wc2026,Чемпионат мира,2026,ISU,Чехия,Прага,O2 Arena,,,127837,официально (ISU),https://english.radio.cz/prague-figure-skating-championships-draw-nearly-128000-spectators-8882122,"рекорд; включая тренировки и показательные"
+sa2002,Skate America,2002,ISU Гран-при,США,Спокан,Spokane Arena,10500,4,28664,официально,https://www.khq.com/news/spokane-chosen-for-2010-u-s-figure-skating-championships/article_50662ba8-b638-52ac-b359-354d34dc9363.html,
+sa2008,Skate America,2008,ISU Гран-при,США,Эверетт,Comcast Arena,,3,29477,официально (продано билетов),https://www.heraldnet.com/?p=259229,рекорд турнира
+sa2009,Skate America,2009,ISU Гран-при,США,Лейк-Плэсид,,,,14100,оценка ISI,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans,
+sa2010,Skate America,2010,ISU Гран-при,США,Портленд,,,,12800,оценка ISI,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans,
+sa2011,Skate America,2011,ISU Гран-при,США,Онтарио (Калифорния),,,,9250,оценка ISI,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans,
+sa2012,Skate America,2012,ISU Гран-при,США,Кент,ShoWare Center,3940,5,13172,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans,5 сессий
+sc2024,Skate Canada,2024,ISU Гран-при,Канада,Галифакс,Scotiabank Centre,10595,4,9563,официально (федерация),https://www.kp.ru/sports/figurnoe-katanie/na-gran-pri-rossii-v-magnitogorske-prishlo-pochti-dva-raza-bolshe-zritelej-chem-na-skate-canada-poseshhaemost-turnira-isu-porazhaet/,"8 363 билета за 4 дня + 1 200 школьников на тренировках"
+rgp2023omsk,Гран-при России,2023,Россия,Россия,Омск,G-Drive Арена,12000,2,17957,официально,https://www.sports.ru/figure-skating/1115578866-18-tysyach-zritelej-posetili-etap-gran-pri-po-figurnomu-kataniyu-v-oms.html,"8 490 + 9 467; продавались не все секторы"
+rgp2024magn,Гран-при России,2024,Россия,Россия,Магнитогорск,Арена «Металлург»,,2,16283,официально,https://www.kp.ru/sports/figurnoe-katanie/na-gran-pri-rossii-v-magnitogorske-prishlo-pochti-dva-raza-bolshe-zritelej-chem-na-skate-canada-poseshhaemost-turnira-isu-porazhaet/,"взрослый этап; ещё около 8 тыс. на юниорах"
+rgp2025omsk,Гран-при России,2025,Россия,Россия,Омск,G-Drive Арена,12000,2,17000,официально (округлено),https://www.championat.com/figureskating/article-6267612-zakulise-etapa-gran-pri-v-omske-chem-zapomnilis-sorevnovaniya-osobennosti-areny-konkurenciya-uchastniki.html,"«больше 17 тысяч»"

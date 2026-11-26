@@ -1,0 +1,14 @@
+event_id,event,season_year,day_order,day,segments,capacity,attendance,fill_pct,measure,source_url
+wc2023,ЧМ 2023 Сайтама,2023,1,среда,"КП пары, КП женщины",16000,6110,,официально,https://japantimes.co.jp/sports/2023/03/24/figure-skating/isu-worlds-attendances-enthusiasm
+wc2023,ЧМ 2023 Сайтама,2023,2,четверг,"ПП пары, КП мужчины",16000,10428,,официально,https://japantimes.co.jp/sports/2023/03/24/figure-skating/isu-worlds-attendances-enthusiasm
+wc2023,ЧМ 2023 Сайтама,2023,4,суббота,"ПП мужчины, ПТ танцы",16000,,99,аншлаг (не продан только самый дорогой тир),https://japantimes.co.jp/sports/2023/03/24/figure-skating/isu-worlds-attendances-enthusiasm
+wc2016,ЧМ 2016 Бостон,2016,4,суббота день,ПП пары,14971,15023,,официально,https://usfigureskating.org/story?id=89523&type=media
+wc2016,ЧМ 2016 Бостон,2016,5,суббота вечер,ПП женщины,14971,15051,,официально,https://usfigureskating.org/story?id=89523&type=media
+sa2012,Skate America 2012 Кент,2012,1,пятница,,3940,2198,,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans
+sa2012,Skate America 2012 Кент,2012,2,суббота день,,3940,2315,,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans
+sa2012,Skate America 2012 Кент,2012,3,суббота вечер,,3940,2930,,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans
+sa2012,Skate America 2012 Кент,2012,4,воскресенье день,,3940,2826,,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans
+sa2012,Skate America 2012 Кент,2012,5,воскресенье вечер,,3940,2903,,официально,https://www.kentreporter.com/news/skate-america-in-kent-draws-good-attendance-of-13172-fans
+rgp2023omsk,ГП России 2023 Омск,2023,1,день 1,КП,12000,8490,,официально,https://www.sports.ru/figure-skating/1115578866-18-tysyach-zritelej-posetili-etap-gran-pri-po-figurnomu-kataniyu-v-oms.html
+rgp2023omsk,ГП России 2023 Омск,2023,2,день 2,ПП,12000,9467,,официально,https://www.sports.ru/figure-skating/1115578866-18-tysyach-zritelej-posetili-etap-gran-pri-po-figurnomu-kataniyu-v-oms.html
+sa2015,Skate America 2015 Милуоки,2015,1,пятница день,,7000,2700,,официально,https://www.huffpost.com/entry/figure-skating-skate-america-2015_b_8398268/amp

@@ -1,0 +1,27 @@
+name: track-tickets
+
+# Раз в день до чемпионата России (17–20 декабря 2026) сохраняет цены перепродажи билетов.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stop after the championship
+        run: |
+          if [ "$(date +%F)" \> "2026-12-21" ]; then echo "done" && exit 0; fi
+          python scripts/track_tickets.py
+          tail -n 20 data/tickets/prices.csv || true
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/tickets
+          git diff --cached --quiet || (git commit -m "Ticket snapshot $(date +%F)" && git push)
